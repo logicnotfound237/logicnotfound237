@@ -10,7 +10,7 @@
 # 📊 GitHub Stuff idk:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=logicnotfound237&theme=radical&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
