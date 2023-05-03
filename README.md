@@ -10,9 +10,6 @@
 # 📊 GitHub Stuff idk:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=logicnotfound237&theme=radical&hide_border=false)<br/>
 
-## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=_crack_head_&theme=tokyonight&response=true&border=true&time=false&icon=code"/></a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
