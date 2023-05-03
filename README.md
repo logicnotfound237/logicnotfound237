@@ -11,10 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=logicnotfound237&theme=radical&hide_border=false)<br/>
 
 ## 🐦 Latest Tweet
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=_crack_head_"/></a>
-https://gtce.itsvg.in/api?username=YOUR_USERNAME&theme=dark
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@_crack_head_&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-
+![]<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=_crack_head_"/></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
