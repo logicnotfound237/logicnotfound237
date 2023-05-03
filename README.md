@@ -14,11 +14,10 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=_crack_head_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@_crack_head_&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@_crack_head_&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
