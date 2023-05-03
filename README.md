@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=logicnotfound237&theme=radical&hide_border=false)<br/>
 
 ## 🐦 Latest Tweet
-![]<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=_crack_head_"/></a>
+<img src="https://gtce.itsvg.in/api?username=_crack_head_"/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
