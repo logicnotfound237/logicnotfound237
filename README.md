@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖🌏 I’m currently working on OpenCV augmented reality<br>👯 collaboration? LETS GO!!!<br>🚀 Working for STES rocketry<br>🤝 Helped in +17 personal Projects <br>🌱 currently learning Computer Science | Finance ☠️<br>
+🤖🌏 I’m currently working on game theory and optimized Memory allocation<br>👯 collaboration? LETS GO!!!<br>🚀Ex- STES rocketry Payload Engineer<br>🤝 Helped in +17 personal Projects <br>🌱 currently learning Computer Science | Finance ☠️<br>
 
 
 ## 🌐 Socials:
